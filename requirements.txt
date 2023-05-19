@@ -1,0 +1,11 @@
+googletrans==3.0.0
+gTTS==2.3.2
+ipython==8.0.1
+numpy==1.22.0
+openai==0.27.6
+pandas==1.4.2
+spacy==3.5.3
+SpeechRecognition==3.10.0
+streamlit==1.22.0
+scikit-learn
+Flask==1.1.2
